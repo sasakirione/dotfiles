@@ -22,6 +22,12 @@ alias pull='git pull'
 alias push='git push'
 
 # Docker
+alias d='docker'
+alias dcu='docker-compose up -d'
+alias dcd='docker-compose down'
+alias dcr='docker-compose restart'
+alias dp='docker ps'
+alias dx='docker exec -it'
 
 # Emacs
 alias e='emacs'
