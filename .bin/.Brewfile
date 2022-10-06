@@ -17,6 +17,7 @@ brew "shellcheck"
 brew "tree"
 brew "watch"
 brew "wget"
+brew "emacs"
 
 cask "vivaldi"
 cask "atok"
