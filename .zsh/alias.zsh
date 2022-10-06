@@ -23,6 +23,7 @@ alias push='git push'
 
 # Emacs
 alias e='emacs'
+alias eal='emacs ~/dotfiles/.zsh/alias.zsh'
 
 # カレントディレクトリのパスをコピー
 alias pwdc='pwd | tr -d "\n" | pbcopy'
