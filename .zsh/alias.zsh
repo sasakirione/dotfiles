@@ -1,3 +1,4 @@
+# カレントディレクトリが変わったときにlsを実行する何か
 chpwd() {
 	if [[ $(pwd) != $HOME ]]; then;
 		ls
@@ -6,7 +7,8 @@ chpwd() {
 
 # 日常
 alias ls='ls -a'
-alias reload='source .zshrc'
+alias reload='source ~/.zshrc'
+alias home='cd ~'
 
 # 保険
 alias cp='cp -i'
