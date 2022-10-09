@@ -9,6 +9,7 @@ chpwd() {
 alias ls='ls -a'
 alias reload='source ~/.zshrc'
 alias home='cd ~'
+alias dot='cd ~/dotfiles'
 
 # 保険
 alias cp='cp -i'
