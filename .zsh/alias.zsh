@@ -22,6 +22,7 @@ alias g='git'
 alias gst='git status'
 alias pull='git pull'
 alias push='git push'
+alias gclone='cd ~/source;git clone $1'
 
 # Docker
 alias d='docker'
