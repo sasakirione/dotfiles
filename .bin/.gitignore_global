@@ -247,3 +247,6 @@ terraform.rc
 packaged.yaml
 samconfig.toml
 *.db
+
+
+.idea/
