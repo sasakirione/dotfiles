@@ -1,1 +1,2 @@
 mkdir ~/source
+mkdir ~/doc
