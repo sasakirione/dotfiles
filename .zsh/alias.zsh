@@ -10,6 +10,7 @@ alias ls='ls -a'
 alias reload='source ~/.zshrc'
 alias home='cd ~'
 alias dot='cd ~/dotfiles'
+alias codedir='cd ~/source'
 alias rmd='rm -rf'
 
 # 保険
